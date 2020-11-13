@@ -1,6 +1,5 @@
 ```
-.
-└── Adelaide
+Adelaide
     ├── AppDelegate.swift
     ├── Controller
     │   ├── ADEFingerListViewController.swift      -------FringerList
@@ -31,7 +30,6 @@
         ├── LoadingIndicatorView.swift           --------Loading page
         ├── SCLAlertView.swift
         └── SCLExtensions.swift
-
 ```
 ### ADEFingerListViewController.swift
 #### http://www.partiklezoo.com/fringer/?
